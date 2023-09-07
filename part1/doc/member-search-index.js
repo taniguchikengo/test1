@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"chapter1_1","c":"util","l":"bmi(double, double)","u":"bmi(double,double)"},{"p":"chapter1_1","c":"util","l":"menseki(double, double)","u":"menseki(double,double)"},{"p":"chapter1_1","c":"util","l":"util()","u":"%3Cinit%3E()"}];updateSearchResults();
